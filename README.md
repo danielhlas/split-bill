@@ -1,3 +1,3 @@
 # Simple React App
 
-Demo:
+Live demo: https://split-bill-react-app.netlify.app
